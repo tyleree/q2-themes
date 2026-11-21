@@ -1,0 +1,7 @@
+q2theme 1
+name Paper
+author Q2 Pod
+accent #903868
+color bg #f4efe6
+battery percent
+end

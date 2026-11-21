@@ -1,0 +1,7 @@
+q2theme 1
+name Ember
+author Q2 Pod
+accent #c45400
+color bg #1c1210
+battery percent
+end

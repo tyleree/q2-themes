@@ -1,0 +1,7 @@
+q2theme 1
+name Midnight
+author Q2 Pod
+accent #2a6ad8
+color bg #101820
+battery percent
+end

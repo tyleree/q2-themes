@@ -1,0 +1,7 @@
+q2theme 1
+name Forest
+author Q2 Pod
+accent #647f34
+color bg #12241a
+battery both
+end

@@ -1,0 +1,7 @@
+q2theme 1
+name Aubergine
+author Q2 Pod
+accent #c04a8a
+color bg #1e1226
+battery inside
+end

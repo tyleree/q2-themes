@@ -1,0 +1,46 @@
+{
+ "themes": [
+  {
+   "file": "aubergine.txt",
+   "name": "Aubergine",
+   "author": "Q2 Pod",
+   "accent": "#c04a8a",
+   "bg": "#1e1226"
+  },
+  {
+   "file": "deep-sea.txt",
+   "name": "Deep Sea",
+   "author": "Q2 Pod",
+   "accent": "#13838d",
+   "bg": "#0c1f2c"
+  },
+  {
+   "file": "ember.txt",
+   "name": "Ember",
+   "author": "Q2 Pod",
+   "accent": "#c45400",
+   "bg": "#1c1210"
+  },
+  {
+   "file": "forest.txt",
+   "name": "Forest",
+   "author": "Q2 Pod",
+   "accent": "#647f34",
+   "bg": "#12241a"
+  },
+  {
+   "file": "midnight.txt",
+   "name": "Midnight",
+   "author": "Q2 Pod",
+   "accent": "#2a6ad8",
+   "bg": "#101820"
+  },
+  {
+   "file": "paper.txt",
+   "name": "Paper",
+   "author": "Q2 Pod",
+   "accent": "#903868",
+   "bg": "#f4efe6"
+  }
+ ]
+}

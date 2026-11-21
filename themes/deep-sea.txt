@@ -1,0 +1,7 @@
+q2theme 1
+name Deep Sea
+author Q2 Pod
+accent #13838d
+color bg #0c1f2c
+battery both
+end
